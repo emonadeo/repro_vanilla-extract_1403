@@ -1,0 +1,23 @@
+{
+  "name": "repro",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "h3": "^1.12.0",
+    "solid-js": "1.8.19",
+    "vike": "^0.4.182",
+    "vike-solid": "^0.7.0",
+    "vite": "^5.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "@vanilla-extract/css": "^1.15.3",
+    "@vanilla-extract/vite-plugin": "^4.0.13",
+    "typescript": "^5.5.4",
+    "vike-node": "^0.1.9"
+  }
+}
